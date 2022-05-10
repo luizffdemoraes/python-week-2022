@@ -1,4 +1,4 @@
 from .cli import main
 
-if __name__ == "__main__": #dunder
+if __name__ == "__main__":  # dunder
     main()
